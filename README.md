@@ -1,3 +1,3 @@
 # People.Jeff-Geerling
 # Home:
-- portal: https://ansible.jeffgeerling.com/
+Ansible Content: https://ansible.jeffgeerling.com/
